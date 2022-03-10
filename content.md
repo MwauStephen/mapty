@@ -37,3 +37,9 @@
 ## 5. See all my workouts when I leave the app and come back late
 
 ## 👉Store workout data in the browser using local storage API On page load, read the saved data from local storage and display
+
+## CDN(Content Delivery Network)
+
+## `Adding mapty link`
+
+## 1.Add the script for mapty before your own script using the defer keyword
