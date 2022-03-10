@@ -43,3 +43,13 @@
 ## `Adding mapty link`
 
 ## 1.Add the script for mapty before your own script using the defer keyword
+
+<!-- STEPS TO USING THE MAPTY LIBRARY -->
+
+## 1.Get the current location using the `navigator.geolocation.getCurrentPosition()` method.
+
+## 2.Add the cdn links to your HTML.
+
+## 3.Use the already given js functions from leafleat.
+
+## 4.Tweak or change the variables according to your specification,like changing the already calculated coordinates
