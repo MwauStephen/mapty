@@ -48,6 +48,8 @@
 
 ## 1.Get the current location using the `navigator.geolocation.getCurrentPosition()` method.
 
+## The above method takes in two call back function one for a successful load and the other for an error
+
 ## 2.Add the cdn links to your HTML.
 
 ## 3.Use the already given js functions from leafleat.
